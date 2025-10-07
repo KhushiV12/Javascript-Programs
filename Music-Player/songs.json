@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Die With A Smile",
+        "artist": "Bruno Mars, Lady Gaga",
+        "img": "images/Die With A Smile .jpg",
+        "src": "songs/Die With A Smile .mp3"
+    },
+    {
+        "title": "One Night in Dubai",
+        "artist": "Aranish",
+        "img": "images/one night in dubai.jpg",
+        "src": "songs/One Night In Dubai_320(PagaiWorld.com).mp3"
+    },
+    {
+        "title": "Sapphire",
+        "artist": "Ed Sheeran",
+        "img": "images/Ed_Sheeran_-_Sapphire.png",
+        "src": "songs/Sapphire_320(PagaiWorld.com).mp3"
+    },
+    {
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "img": "images/perfect.jpg",
+        "src": "songs/ed-sheeran-perfect.mp3"
+    }
+]
